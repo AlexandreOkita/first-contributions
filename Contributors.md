@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [Alexandre Okita] (https://github.com/AlexandreOkita)
 - [Mobaork Hossain] (https://github.com/mobaarok)
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
 - [Satvir Singh] (https://github.com/SatvirSingh98)
@@ -10180,4 +10180,5 @@ https://github.com/franzk
 - [RenatoAWK](https://github.com/RenatoAwk)
 - [BraveOlivia](https://github.com/BraveOlivia)
 - [TakahitoHimi](https://github.com/TakahiroHimi)
-- [Clemens Schuetz](https://github.com/somekindofpanem)
+- [Clemens Schuetz](https://github.com/somekindofpane:  qq
+    m)
